@@ -1,4 +1,4 @@
-# Black-Friday-Sales-Prediction
+# Black-Friday-Sales-Prediction Machine Learning
 What is Black Friday?
 It is an unofficial holiday in many states in the US and a major day for both shoppers and sellers. With Christmas just a month later, Black Friday serves as an opportunity for customers to do their Christmas shopping while retailers also try to drive up their profits by generating more sales.
 
